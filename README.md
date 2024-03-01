@@ -143,7 +143,29 @@ WHERE
 ```
 
 
+### Results/Findings
 
+1. Total sales and profit increased steadily over the four-year period, indicating positive departmental growth.
+2. Top customers and most affordable delivery methods were identified, providing opportunities for targeted marketing efforts and cost optimization.
+3. Return rates were relatively low, suggesting overall satisfaction with delivery services, but further investigation into order handling processes may be warranted.
+4. Orders without discounts accounted for a significant portion of sales, highlighting potential opportunities for pricing optimization.
+5. Regional sales analysis revealed areas of high sales performance, guiding resource allocation and market expansion strategies.
+
+
+### Recommendations 
+
+- Implement a customer segmentation strategy to tailor delivery methods and marketing approaches based on customer preferences and behavior.
+- Enhance order tracking and handling processes to minimize return rates and improve customer satisfaction.
+- Conduct further analysis on pricing strategies to identify optimal discounting strategies that maximize sales and profitability.
+- Invest in regional sales analysis tools to better understand market dynamics and allocate resources effectively.
+
+    ### Limitations
+  
+1. The analysis is limited to the data available for the years 2009-2012 and may not capture recent trends or changes in market conditions.
+2. The dataset may contain inherent biases or inaccuracies that could impact the validity of the findings.
+3. External factors such as economic conditions or competitive pressures may also influence departmental performance but were not considered in this analysis.
+
+   
 
 
 
