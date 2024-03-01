@@ -12,7 +12,7 @@ Elite Stores, a leading retailer based in Canada, aims to optimize its haulage d
 ### Tools
 
 - Excel - Data Cleaning
-- MYSQL - Data Analysis
+- SQL Server - Data Analysis
 - Tableau - Creating reports
 
     ### Data cleaning and Preparation
